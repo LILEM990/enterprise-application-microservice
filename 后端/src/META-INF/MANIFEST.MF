@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: tcu.zc.service.spring.docker.SpringHelloApplication
+
