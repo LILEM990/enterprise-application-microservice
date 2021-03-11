@@ -1,0 +1,1 @@
+2021/03/10 19:38:59 [emerg] 10780#16512: CreateFile() "F:\WorkSpeace_IDEA2020\docker-spring-hello\enterprise-application-microservice\Ç°¶Ë\nginx-1.18.0\nginx-1.18.0/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
